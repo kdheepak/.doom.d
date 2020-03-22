@@ -60,6 +60,5 @@
 (package! ripgrep)
 (package! highlight-indent-guides)
 (package! pyvenv)
-(package! ob-julia)
 (package! ascii-art-to-unicode)
 (package! origami)
