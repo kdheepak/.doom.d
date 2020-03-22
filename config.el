@@ -79,3 +79,8 @@
                                                     (:kernel . "julia-1.3")))
 
 (add-to-list 'exec-path "~/miniconda3/envs/julia-py3-env/bin")
+
+(add-to-list 'default-frame-alist
+             '(ns-transparent-titlebar . t))
+(add-to-list 'default-frame-alist
+             '(ns-appearance . dark))
